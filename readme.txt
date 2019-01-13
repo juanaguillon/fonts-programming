@@ -1,6 +1,8 @@
 [Monospace Fonts]
 Andale Mono
 Anonymous Pro,
+Bitstream Vera Mono
+Sometype Mono
 Courier Prime Code
 Cousine
 Cutive Mono
