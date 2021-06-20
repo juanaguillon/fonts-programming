@@ -21,6 +21,7 @@ This is a list of my favorite programming monospaced fonts.
 + [Generic Mono](#generic-mono)
 + [Hack](#hack)
 + [Hasklig](#hasklig)
++ iA Writer Mono S 
 + [Inconsolata](#inconsolata)
 + [JetBrains Mono](#jetbrains-mono)
 + [Kawkab Mono](#kawkab-mono)
@@ -34,6 +35,7 @@ This is a list of my favorite programming monospaced fonts.
 + [Overpass Mono](#overpass-mono)
 + [Oxygen Mono](#oxygen-mono)
 + [Panic Sans](#panic-sans)
++ Recursive Monospace Mono Linear
 + [Roboto Mono](#roboto-mono)
 + [SF Mono Regular](#sf-mono-regular)
 + [Sometype Mono](#sometype-mono)
