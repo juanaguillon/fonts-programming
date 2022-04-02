@@ -18,11 +18,12 @@ This is a list of my favorite programming monospaced fonts.
 + [Everson Mono](#everson-mono)
 + [Fire Code](#fire-code)
 + [Fira Cousine](#fira-cousine)
-+ [Generic Mono](#generic-mono)
++ [Generic Mono II](#generic-mono)
 + [Hack](#hack)
 + [Hasklig](#hasklig)
 + iA Writer Mono S 
 + [Inconsolata](#inconsolata)
++ Inconsolata-g
 + [JetBrains Mono](#jetbrains-mono)
 + [Kawkab Mono](#kawkab-mono)
 + [Liberation Mono](#liberation-mono)
@@ -30,6 +31,7 @@ This is a list of my favorite programming monospaced fonts.
 + [Meslo LG M DZ](#meslo-lg-m-dz)
 + [Metrickal](#metrickal)
 + [Monofur](#monofur)
++ Noto Sans Mono
 + [NanumGothicCoding](#nanumgothiccoding)
 + [Office Code Pro](#office-code-pro)
 + [Overpass Mono](#overpass-mono)
