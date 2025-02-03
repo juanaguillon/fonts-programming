@@ -19,6 +19,8 @@ This is a list of my favorite programming monospaced fonts.
 + [Fire Code](#fire-code)
 + [Fira Cousine](#fira-cousine)
 + [Generic Mono II](#generic-mono)
++ Google Sans Code
++ Google Sans Mono
 + [Hack](#hack)
 + [Hasklig](#hasklig)
 + iA Writer Mono S 
