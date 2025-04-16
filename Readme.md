@@ -19,13 +19,14 @@ This is a list of my favorite programming monospaced fonts.
 + [Fire Code](#fire-code)
 + [Fira Cousine](#fira-cousine)
 + [Generic Mono II](#generic-mono)
-+ Google Sans Code
-+ Google Sans Mono
++ [Geist Mono](#geist-mono)
++ [Google Sans Code](#google-sans-code)
++ [Google Sans Mono](#google-sans-mono)
 + [Hack](#hack)
 + [Hasklig](#hasklig)
-+ iA Writer Mono S 
++ [iA Writer Mono S ](#ia-writer-mono-s )
 + [Inconsolata](#inconsolata)
-+ Inconsolata-g
++ [Inconsolata-g](#inconsolata-g)
 + [JetBrains Mono](#jetbrains-mono)
 + [Kawkab Mono](#kawkab-mono)
 + [Liberation Mono](#liberation-mono)
@@ -33,13 +34,13 @@ This is a list of my favorite programming monospaced fonts.
 + [Meslo LG M DZ](#meslo-lg-m-dz)
 + [Metrickal](#metrickal)
 + [Monofur](#monofur)
-+ Noto Sans Mono
++ [Noto Sans Mono](#noto-sans-mono)
 + [NanumGothicCoding](#nanumgothiccoding)
 + [Office Code Pro](#office-code-pro)
 + [Overpass Mono](#overpass-mono)
 + [Oxygen Mono](#oxygen-mono)
 + [Panic Sans](#panic-sans)
-+ Recursive Monospace Mono Linear
++ [Recursive Monospace Mono Linear](#recursive-monospace-mono-linear)
 + [Roboto Mono](#roboto-mono)
 + [SF Mono Regular](#sf-mono-regular)
 + [Sometype Mono](#sometype-mono)
@@ -94,14 +95,29 @@ This is a list of my favorite programming monospaced fonts.
 ### Generic Mono
 <img src="ScreenShots/generic-mono-ii.jpg" width="800">
 
+### Geist Mono
+<img src="ScreenShots/geist-mono.jpg" width="800">
+
+### Google Sans Code
+<img src="ScreenShots/google-sans-code.jpg" width="800">
+
+### Google Sans Mono
+<img src="ScreenShots/google-sans-mono.jpg" width="800">
+
 ### Hack
 <img src="ScreenShots/hack.jpg" width="800">
 
 ### Hasklig
 <img src="ScreenShots/hasklig.jpg" width="800">
 
+### iA Writer Mono S 
+<img src="ScreenShots/ia-writer-mono-s.jpg" width="800">
+
 ### Inconsolata
 <img src="ScreenShots/inconsolata.jpg" width="800">
+
+### Inconsolata-g
+<img src="ScreenShots/google-sans-mono.jpg" width="800">
 
 ### JetBrains Mono
 <img src="ScreenShots/jetbrains-mono.jpg" width="800">
@@ -124,6 +140,9 @@ This is a list of my favorite programming monospaced fonts.
 ### Monofur
 <img src="ScreenShots/monofur.jpg" width="800">
 
+### Noto Sans Mono
+<img src="ScreenShots/noto-sans-mono.jpg" width="800">
+
 ### NanumGothicCoding
 <img src="ScreenShots/nanumgothiccoding.jpg" width="800">
 
@@ -138,6 +157,9 @@ This is a list of my favorite programming monospaced fonts.
 
 ### Panic Sans
 <img src="ScreenShots/panic-sans.jpg" width="800">
+
+### Recursive Monospace Mono Linear
+<img src="ScreenShots/recursive-monospace-mono-linear.jpg" width="800">
 
 ### Roboto Mono
 <img src="ScreenShots/roboto-mono.jpg" width="800">
@@ -154,3 +176,4 @@ This is a list of my favorite programming monospaced fonts.
 
 ### Color Theme Used
 All screeshot code use the color theme [Night Wolf Theme](https://marketplace.visualstudio.com/items?itemName=MaoSantaella.night-wolf).
+With Font Size 25px.
