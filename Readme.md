@@ -34,6 +34,7 @@ This is a list of my favorite programming monospaced fonts.
 + [Meslo LG M DZ](#meslo-lg-m-dz)
 + [Metrickal](#metrickal)
 + [Monofur](#monofur)
++ [Monolisa](#monolisa)
 + [Noto Sans Mono](#noto-sans-mono)
 + [NanumGothicCoding](#nanumgothiccoding)
 + [Office Code Pro](#office-code-pro)
@@ -139,6 +140,9 @@ This is a list of my favorite programming monospaced fonts.
 
 ### Monofur
 <img src="ScreenShots/monofur.jpg" width="800">
+
+### Monolisa
+<img src="ScreenShots/monolisa.jpg" width="800">
 
 ### Noto Sans Mono
 <img src="ScreenShots/noto-sans-mono.jpg" width="800">
